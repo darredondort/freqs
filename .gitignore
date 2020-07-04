@@ -1,2 +1,4 @@
 node_modules/
 data-local/
+./.DS_Store
+./data/.DS_Store
