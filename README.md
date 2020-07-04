@@ -39,9 +39,9 @@ Resulting frequencies, word table stored in `freqs.csv`
 | freq        | word           |
 | ------------- |:-------------:|
 |       12       |      la         |
-|      10        |      cucaracha         |
+|      10        |      cucaracha  |
 |       9        |      no         |
-|       8        |      porque         |
+|       8        |      porque     |
 
 
 ____
