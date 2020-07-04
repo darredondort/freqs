@@ -46,6 +46,12 @@ Resulting frequencies, word table stored in `freqs.csv`
 
 ____
 
-## Licencia
+## Roadmap
+ - sort by freq
+ - english and spanish stopwords
+ - remove conflicting accents and special characters
+____
+
+## License
 
 [MIT © Diego Arredondo](../LICENSE)
