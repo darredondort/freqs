@@ -35,7 +35,15 @@ Run main script
 npm start
 ```
 
-Results (freq, word) stored in `freqs.csv`
+Resulting frequencies, word table stored in `freqs.csv`
+| freq        | word           |
+| ------------- |:-------------:|
+|       12       |      la         |
+|      10        |      cucaracha         |
+|       9        |      no         |
+|       8        |      porque         |
+
+
 ____
 
 ## Licencia
