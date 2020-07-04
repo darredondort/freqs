@@ -1,2 +1,2 @@
 # freqs
-Count word frequencies in txt and export to csv.
+Simple word analysis tool. Count word frequencies in txt and export to csv.
