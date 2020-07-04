@@ -7,14 +7,7 @@ Based on [@waltfy / word-freq](https://github.com/waltfy/word-freq)
 ___ 
 
 ## Install:
-Install [Node.js](https://nodejs.org/en/download/) & [http-server](https://www.npmjs.com/package/http-server).
-
-```
-npm i http-server
-````
-___
-
-## Usage
+Install [Node.js](https://nodejs.org/en/download/) 
 
 Clone or download repo.
 ```
@@ -31,6 +24,9 @@ Install npm dependencies
 ```
 npm install
 ```
+___
+
+## Usage
 
 Paste text into `input.txt` file.
 
@@ -39,7 +35,7 @@ Run main script
 npm start
 ```
 
-Explora los ejemplos en tu navegador: http://localhost:8080/
+Results (freq, word) stored in `freqs.csv`
 ____
 
 ## Licencia
