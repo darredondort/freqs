@@ -33,13 +33,13 @@ function writeCSV(data) {
     const csv = new ObjectsToCsv(data);
 
     // Save to CSV file:
-    await csv.toDisk('./freqs.csv', {
+    await csv.toDisk('./data/freqs.csv', {
       allColumns: true
     });
 
     // print CSV file as string and summary
     console.log(await csv.toString());
-    console.log(`${data.length} word frequencies written in /freqs.csv`)
+    console.log(`${data.length} word frequencies written in data/freqs.csv`)
   })();
 
 }
