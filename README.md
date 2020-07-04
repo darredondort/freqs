@@ -47,9 +47,19 @@ Resulting frequencies, word table stored in `freqs.csv`
 ____
 
 ## Roadmap
- - sort by freq
- - english and spanish stopwords
- - remove conflicting accents and special characters
+
+### 0.0.1:
+- Import text string from `.txt`.
+- Count word frecuencies in string with [word-freq](https://github.com/waltfy/word-freq).
+- Parse and export `.csv`.
+
+
+### Backlog:
+ - Sort frequencies list from highest to lowest.
+ - Remove conflicting accents and special characters.
+ - Check for and remove English and Spanish stopwords.
+ - CLI version.
+ 
 ____
 
 ## License
